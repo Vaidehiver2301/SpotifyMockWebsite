@@ -12,3 +12,7 @@ These instructions are for running the code on an IDE such a s VS Code:
 - Make sure you have the index.html, style.css as well as assets folder downloaded
 - open all 3 files on vs code
 - compile and run the code to view in browser.
+
+#usage(non IDE):
+Use the given link to go directly open the site on your browser
+https://spotify-mock-webapp.netlify.app/
