@@ -13,6 +13,6 @@ These instructions are for running the code on an IDE such a s VS Code:
 - open all 3 files on vs code
 - compile and run the code to view in browser.
 
-#usage(non IDE):
+# usage(non IDE):
 Use the given link to go directly open the site on your browser
-https://spotify-mock-webapp.netlify.app/
+* https://spotify-mock-webapp.netlify.app/
